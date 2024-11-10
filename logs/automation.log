@@ -1,0 +1,11 @@
+2024-11-09 20:27:12 [main] INFO  LoggerUtil - Test setup initialized.
+2024-11-09 20:27:13 [main] INFO  LoggerUtil - Test teardown completed.
+2024-11-09 20:30:42 [main] INFO  LoggerUtil - Test setup initialized.
+2024-11-09 20:30:46 [main] INFO  LoggerUtil - Jeep India Launched As Expected
+2024-11-09 20:37:00 [main] INFO  LoggerUtil - Test teardown completed.
+2024-11-09 20:45:26 [main] INFO  LoggerUtil - Test setup initialized.
+2024-11-09 20:45:30 [main] INFO  LoggerUtil - Jeep India Launched As Expected
+2024-11-09 20:49:58 [main] INFO  LoggerUtil - Test setup initialized.
+2024-11-09 20:50:03 [main] INFO  LoggerUtil - Jeep India Launched As Expected
+2024-11-09 20:50:25 [main] INFO  LoggerUtil - The Expected Title is : COMPARE & BUILD IN 3D is Successfully Validated
+2024-11-09 20:53:31 [main] INFO  LoggerUtil - Execution Completed and Closed Browser Session
